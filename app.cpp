@@ -15,5 +15,7 @@ void setup(){
 // main function to loop over progam
 
 void loop(){
-
+  lcd.print("Hello World");
+  lcd.setCursor(0,1);
+  lcd.print("Wow look at this soo cool haha")
 }
