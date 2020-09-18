@@ -7,4 +7,4 @@ tools used (these are not the exact link to the items these are just the tools y
 - [arduino] (https://store.arduino.cc/usa/arduino-uno-rev3)
 - [lcddisplay] (https://www.amazon.com/Arducam-Display-Controller-Character-Backlight/dp/B019D9TYMI)
 - [jumperwires] (https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_3?dchild=1&keywords=arduino+jumper+wires&qid=1598490534&sr=8-3)
-- [potemieter] (https://www.amazon.com/MCIGICM-Breadboard-Trim-Potentiometer-Arduino/dp/B07S69443J/ref=sr_1_3?crid=3HKUWZ9W6EAHU&dchild=1&keywords=10k+potentiometer&qid=1598490631&sprefix=10k%2Caps%2C226&sr=8-3)
+- [potemieter] (https://www.amazon.com/MCIGICM-Breadboard-Trim-Potentiometer-Arduino/dp/B07S69443J/ref=sr_1_3?crid=3HKUWZ9W6EAHU&dcghild=1&keywords=10k+potentiometer&qid=1598490631&sprefix=10k%2Caps%2C226&sr=8-3)
